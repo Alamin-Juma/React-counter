@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-counter/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-counter/static/js/main.ad5f10b7.chunk.js",
+    "main.js.map": "/React-counter/static/js/main.ad5f10b7.chunk.js.map",
+    "runtime-main.js": "/React-counter/static/js/runtime-main.923d4d28.js",
+    "runtime-main.js.map": "/React-counter/static/js/runtime-main.923d4d28.js.map",
+    "static/js/2.474351a7.chunk.js": "/React-counter/static/js/2.474351a7.chunk.js",
+    "static/js/2.474351a7.chunk.js.map": "/React-counter/static/js/2.474351a7.chunk.js.map",
+    "static/js/3.fc086057.chunk.js": "/React-counter/static/js/3.fc086057.chunk.js",
+    "static/js/3.fc086057.chunk.js.map": "/React-counter/static/js/3.fc086057.chunk.js.map",
+    "index.html": "/React-counter/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-counter/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.474351a7.chunk.js.LICENSE.txt": "/React-counter/static/js/2.474351a7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/React-counter/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.923d4d28.js",
+    "static/js/2.474351a7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ad5f10b7.chunk.js"
+  ]
+}
