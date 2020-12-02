@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-counter/static/css/main.bc4fd1c6.chunk.css",
-    "main.js": "/React-counter/static/js/main.8fd548be.chunk.js",
-    "main.js.map": "/React-counter/static/js/main.8fd548be.chunk.js.map",
+    "main.css": "/React-counter/static/css/main.8dcac908.chunk.css",
+    "main.js": "/React-counter/static/js/main.0ff8a50b.chunk.js",
+    "main.js.map": "/React-counter/static/js/main.0ff8a50b.chunk.js.map",
     "runtime-main.js": "/React-counter/static/js/runtime-main.923d4d28.js",
     "runtime-main.js.map": "/React-counter/static/js/runtime-main.923d4d28.js.map",
     "static/js/2.183911f2.chunk.js": "/React-counter/static/js/2.183911f2.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.fc086057.chunk.js": "/React-counter/static/js/3.fc086057.chunk.js",
     "static/js/3.fc086057.chunk.js.map": "/React-counter/static/js/3.fc086057.chunk.js.map",
     "index.html": "/React-counter/index.html",
-    "static/css/main.bc4fd1c6.chunk.css.map": "/React-counter/static/css/main.bc4fd1c6.chunk.css.map",
+    "static/css/main.8dcac908.chunk.css.map": "/React-counter/static/css/main.8dcac908.chunk.css.map",
     "static/js/2.183911f2.chunk.js.LICENSE.txt": "/React-counter/static/js/2.183911f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.923d4d28.js",
     "static/js/2.183911f2.chunk.js",
-    "static/css/main.bc4fd1c6.chunk.css",
-    "static/js/main.8fd548be.chunk.js"
+    "static/css/main.8dcac908.chunk.css",
+    "static/js/main.0ff8a50b.chunk.js"
   ]
 }
