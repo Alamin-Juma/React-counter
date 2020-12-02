@@ -10,7 +10,8 @@ function App() {
     const increaseOrDecreaseCount = (increment, decrement) => {
         if (increment || decrement) {
             setCount(count + increment);
-            if (count > 3000){
+            if (count === 3000){
+                
                 window.alert("wow!!!! you getting fucking rich dude")
             }
         }
