@@ -2,10 +2,15 @@
     text-align: center;
     color: #0d47a1;
     font-weight: bold;
-    font-size: 3em;
-    padding-top: 16px;
+    font-size: 1.5em;
 }
 
+.Header {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2.5em;
+}
 .Button {
     background-color: #4CAF50;
     border: none;
