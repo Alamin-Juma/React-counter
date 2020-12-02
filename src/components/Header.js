@@ -7,8 +7,8 @@ import image from  "../images/rain.png"
 function Header() {
     return (
         <div className= "Header">
-            <h4>Welcome to Money Maker</h4>
-            <h6>Make my4 money rain <img src={image}/></h6>
+            <h4>Welcome to Money-Maker</h4>
+            <h6>Make my money rain<img src={image}/></h6>
         </div>
     )
 }

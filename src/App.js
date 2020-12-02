@@ -25,7 +25,7 @@ function App() {
         <div className="App ">
             <div>
                 <Header />
-            </div>,
+            </div>
             <div>
                 <Button increment={10} decrement={-10} onClickFunction={increaseOrDecreaseCount}/>
                 <Button increment={100} decrement={-100} onClickFunction={increaseOrDecreaseCount}/>
