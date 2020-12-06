@@ -1,5 +1,6 @@
 # React-counter
 About A react counter to demonstrate components building, passing data to components using props and maintaining states for UI updates
+see app demo here https://alamin-juma.github.io/React-counter/
 # React-counter
 This money maker app increases your money in account balance by 10, 100, 1000 each time ypu gain + .
 You can also loose money by -10, -100 or -1000 and keeps updating your account balance.
